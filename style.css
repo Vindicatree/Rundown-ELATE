@@ -370,6 +370,10 @@ nav{
     flex-direction: column;
 }
 
+.md img{
+    margin-bottom: 60px;
+}
+
 .box img{
     height: 55vh;
     width: auto;
